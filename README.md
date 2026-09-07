@@ -181,13 +181,13 @@ son el registro de cómo voy aprendiendo.
 
 <div align="center">
 
-<img width="98%" src="./profile-summary-card-output/gruvbox/0-profile-details.svg" alt="resumen"/>
+<img width="98%" src="./profile-summary-card-output/kacho_ga/0-profile-details.svg" alt="resumen"/>
 
-<img height="190" src="./profile-summary-card-output/gruvbox/3-stats.svg" alt="stats"/>
-<img height="190" src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="lenguajes por commits"/>
+<img height="190" src="./profile-summary-card-output/kacho_ga/3-stats.svg" alt="stats"/>
+<img height="190" src="./profile-summary-card-output/kacho_ga/2-most-commit-language.svg" alt="lenguajes por commits"/>
 
-<img height="190" src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="repos por lenguaje"/>
-<img height="190" src="./profile-summary-card-output/gruvbox/4-productive-time.svg" alt="horas productivas"/>
+<img height="190" src="./profile-summary-card-output/kacho_ga/1-repos-per-language.svg" alt="repos por lenguaje"/>
+<img height="190" src="./profile-summary-card-output/kacho_ga/4-productive-time.svg" alt="horas productivas"/>
 
 </div>
 
