@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Nakusu — Software Engineering and Design">
+  <title>Nakusu</title>
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+      <animate attributeName="x1" values="-100%;0%;-100%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#a855f7" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#f472b6" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+      <animate attributeName="x1" values="-60%;100%;-60%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;160%;0%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="halo" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#3b1d6e" stop-opacity="0.75"/>
+      <stop offset="55%" stop-color="#12102b" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#05060e" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none" stroke="#1c2547" stroke-width="1"/>
+    </pattern>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="typeClip">
+      <rect x="322" y="174" width="0" height="38">
+        <animate attributeName="width" values="0;0;556;556;0" keyTimes="0;0.06;0.55;0.92;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- fondo -->
+  <rect width="1200" height="300" fill="#05060e"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1200" height="300" fill="url(#halo)"/>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="1200" height="90" fill="url(#fade)" opacity="0.5">
+    <animate attributeName="y" values="-90;300;-90" dur="11s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- particulas -->
+  <g fill="#22d3ee">
+    <circle cx="120" cy="70" r="2.5" opacity="0.8"><animate attributeName="cy" values="70;40;70" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.9;0.2" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="220" r="2" opacity="0.7"><animate attributeName="cy" values="220;190;220" dur="7.5s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.8;0.15" dur="7.5s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="80" r="1.8" fill="#f472b6"><animate attributeName="cy" values="80;55;80" dur="9s" begin="-4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.9;0.2" dur="9s" begin="-4s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="235" r="2.2" fill="#a855f7"><animate attributeName="cy" values="235;205;235" dur="8s" begin="-1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.85;0.15" dur="8s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="45" r="1.6" fill="#22d3ee"><animate attributeName="cy" values="45;25;45" dur="10s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.7;0.1" dur="10s" begin="-6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- marco neon -->
+  <rect x="14" y="14" width="1172" height="272" rx="18" fill="none" stroke="url(#neon)" stroke-width="1.5" opacity="0.55" filter="url(#softglow)"/>
+
+  <!-- corchetes -->
+  <g stroke="#a855f7" stroke-width="3" fill="none" opacity="0.9" filter="url(#softglow)">
+    <path d="M300 88 L280 88 L280 212 L300 212">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="3.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M900 88 L920 88 L920 212 L900 212" stroke="#22d3ee">
+      <animate attributeName="opacity" values="1;0.35;1" dur="3.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- titulo -->
+  <text x="600" y="146" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="14"
+        fill="none" stroke="url(#neon)" stroke-width="1.6" filter="url(#glow)"
+        stroke-dasharray="1400" stroke-dashoffset="1400">
+    NAKUSU
+    <animate attributeName="stroke-dashoffset" values="1400;0" dur="2.6s" fill="freeze"/>
+  </text>
+  <text x="600" y="146" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="14"
+        fill="url(#neon)" opacity="0">
+    NAKUSU
+    <animate attributeName="opacity" values="0;0;0.95;0.75;0.95" keyTimes="0;0.28;0.5;0.75;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- subtitulo tipeado -->
+  <g clip-path="url(#typeClip)">
+    <text x="322" y="202" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="21" fill="#7dd3fc" opacity="0.95">
+      ing. de software &#183; dise&#241;o &#183; c&#243;digo creativo
+    </text>
+  </g>
+  <rect x="322" y="178" width="2" height="28" fill="#f472b6">
+    <animate attributeName="x" values="322;322;878;878;322" keyTimes="0;0.06;0.55;0.92;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- regla inferior -->
+  <rect x="180" y="242" width="840" height="2" fill="url(#rule)" filter="url(#softglow)"/>
+
+  <!-- status -->
+  <g font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" fill="#64748b">
+    <circle cx="196" cy="266" r="4" fill="#4ade80">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="210" y="271">status: construyendo cosas</text>
+    <text x="1004" y="271" text-anchor="end">github.com/Nakusuo</text>
+  </g>
+</svg>
