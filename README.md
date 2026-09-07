@@ -1,3 +1,10 @@
+<!--
+   ┌─────────────────────────────┐
+   │  ((•))  ─────────  ((•))    │   si llegaste hasta aquí:
+   │   side A · no rebobinar     │   hay una side B al final
+   └─────────────────────────────┘
+-->
+
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Nakusu" width="100%" />
@@ -5,16 +12,16 @@
 <br/>
 
 <a href="https://instagram.com/n4kusu">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6&labelColor=0D1117" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-1C1F1C?style=for-the-badge&logo=instagram&logoColor=9B4A55&labelColor=1C1F1C" alt="Instagram"/>
 </a>
 <a href="https://github.com/Nakusuo?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0D1117" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Repos-1C1F1C?style=for-the-badge&logo=github&logoColor=C9C2B0&labelColor=1C1F1C" alt="Repos"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Nakusuo&style=for-the-badge&color=a855f7&label=VISITAS" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=Nakusuo&style=for-the-badge&color=4a5f3a&label=VISITAS" alt="visitas"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Frontend+en+React+%2B+TypeScript;Backend+en+Spring+Boot+y+FastAPI;Dise%C3%B1o%2C+arte+y+c%C3%B3digo+creativo" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1400&color=8FA36B&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Frontend+en+React+%2B+TypeScript;Backend+en+Spring+Boot+y+FastAPI;Dise%C3%B1o%2C+arte+y+c%C3%B3digo+creativo" alt="typing"/>
 
 </div>
 
@@ -56,11 +63,11 @@ donde el grupo realmente coincide.
 - Modo demo sin backend + backend stub para desarrollo
 - Contrato de API documentado entre front y Spring Boot
 
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=A855F7&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=4ADE80&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F472B6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/React-1C1F1C?style=flat-square&logo=react&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/TypeScript-1C1F1C?style=flat-square&logo=typescript&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Vite-1C1F1C?style=flat-square&logo=vite&logoColor=A9856B&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1C1F1C?style=flat-square&logo=springboot&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Java-1C1F1C?style=flat-square&logo=openjdk&logoColor=9B4A55&labelColor=1C1F1C"/>
 
 **Repos:** [`huecko-frontend`](https://github.com/Nakusuo/huecko-frontend) · [`huecko-backend`](https://github.com/Nakusuo/huecko-backend) · [`huecko-ai-service`](https://github.com/Nakusuo/huecko-ai-service)
 
@@ -82,10 +89,10 @@ separado.
 - Gestión de denuncias por tipo de violencia
 - Modo mock ↔ backend real conmutable por variable de entorno
 
-<img src="https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=4ADE80&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/React_18-1C1F1C?style=flat-square&logo=react&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/TypeScript-1C1F1C?style=flat-square&logo=typescript&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Tailwind-1C1F1C?style=flat-square&logo=tailwindcss&logoColor=A9856B&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1C1F1C?style=flat-square&logo=springboot&logoColor=7A8F5C&labelColor=1C1F1C"/>
 
 **Repo:** [`SafeZone_Frontend`](https://github.com/Nakusuo/SafeZone_Frontend)
 
@@ -98,12 +105,12 @@ separado.
 
 API de telemedicina: pacientes, doctores, citas y expedientes, con
 autenticación JWT y un endpoint de *facial-login*. Documentada en Swagger
-desde el primer commit.
+desde el primer commit. El frontend va en Angular 16 con videollamadas WebRTC.
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=F472B6&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=4ADE80&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=A855F7&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Python-1C1F1C?style=flat-square&logo=python&logoColor=9B4A55&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/FastAPI-1C1F1C?style=flat-square&logo=fastapi&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1C1F1C?style=flat-square&logo=postgresql&logoColor=C9C2B0&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Angular-1C1F1C?style=flat-square&logo=angular&logoColor=9B4A55&labelColor=1C1F1C"/>
 
 **Repos:** [`Backend-ClinicaBiometrica`](https://github.com/Nakusuo/Backend-ClinicaBiometrica) · [`Frontend-ClinicaBiometrica`](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
 
@@ -115,7 +122,8 @@ desde el primer commit.
 <br/>
 
 Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-Frontend`,
-`semana14-DWI`, `5minutos`. No son portafolio, son el registro de cómo voy aprendiendo.
+`semana14-DWI`, `5minutos`, `Estrucutra-de-datos---Cafeteria`. No son portafolio,
+son el registro de cómo voy aprendiendo.
 
 </details>
 
@@ -128,16 +136,16 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 
 <br/>
 
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=A855F7&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F472B6&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=4ADE80&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F472B6&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=4ADE80&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F472B6&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-1C1F1C?style=for-the-badge&logo=typescript&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/React-1C1F1C?style=for-the-badge&logo=react&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Tailwind-1C1F1C?style=for-the-badge&logo=tailwindcss&logoColor=A9856B&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Vite-1C1F1C?style=for-the-badge&logo=vite&logoColor=A9856B&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Java-1C1F1C?style=for-the-badge&logo=openjdk&logoColor=9B4A55&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1C1F1C?style=for-the-badge&logo=springboot&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Python-1C1F1C?style=for-the-badge&logo=python&logoColor=9B4A55&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/FastAPI-1C1F1C?style=for-the-badge&logo=fastapi&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1C1F1C?style=for-the-badge&logo=postgresql&logoColor=C9C2B0&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Git-1C1F1C?style=for-the-badge&logo=git&logoColor=9B4A55&labelColor=1C1F1C"/>
 
 </details>
 
@@ -146,12 +154,12 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 
 <br/>
 
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=A855F7&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=F472B6&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Krita-0D1117?style=for-the-badge&logo=krita&logoColor=A855F7&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Blender-0D1117?style=for-the-badge&logo=blender&logoColor=F472B6&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects&logoColor=A855F7&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Figma-1C1F1C?style=for-the-badge&logo=figma&logoColor=A9856B&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Photoshop-1C1F1C?style=for-the-badge&logo=adobephotoshop&logoColor=C9C2B0&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Illustrator-1C1F1C?style=for-the-badge&logo=adobeillustrator&logoColor=A9856B&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Krita-1C1F1C?style=for-the-badge&logo=krita&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Blender-1C1F1C?style=for-the-badge&logo=blender&logoColor=A9856B&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/After_Effects-1C1F1C?style=for-the-badge&logo=adobeaftereffects&logoColor=9B4A55&labelColor=1C1F1C"/>
 
 </details>
 
@@ -160,10 +168,10 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 
 <br/>
 
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=22D3EE&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Testing-0D1117?style=for-the-badge&logo=vitest&logoColor=4ADE80&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=A855F7&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Docker-1C1F1C?style=for-the-badge&logo=docker&logoColor=C9C2B0&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Next.js-1C1F1C?style=for-the-badge&logo=nextdotjs&logoColor=C9C2B0&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Testing-1C1F1C?style=for-the-badge&logo=vitest&logoColor=7A8F5C&labelColor=1C1F1C"/>
+<img src="https://img.shields.io/badge/Three.js-1C1F1C?style=for-the-badge&logo=threedotjs&logoColor=A9856B&labelColor=1C1F1C"/>
 
 </details>
 
@@ -173,13 +181,13 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 
 <div align="center">
 
-<img width="98%" src="./profile-summary-card-output/radical/0-profile-details.svg" alt="resumen"/>
+<img width="98%" src="./profile-summary-card-output/gruvbox/0-profile-details.svg" alt="resumen"/>
 
-<img height="190" src="./profile-summary-card-output/radical/3-stats.svg" alt="stats"/>
-<img height="190" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="lenguajes por commits"/>
+<img height="190" src="./profile-summary-card-output/gruvbox/3-stats.svg" alt="stats"/>
+<img height="190" src="./profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="lenguajes por commits"/>
 
-<img height="190" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos por lenguaje"/>
-<img height="190" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="horas productivas"/>
+<img height="190" src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="repos por lenguaje"/>
+<img height="190" src="./profile-summary-card-output/gruvbox/4-productive-time.svg" alt="horas productivas"/>
 
 </div>
 
@@ -192,7 +200,7 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="grafo 3D de contribuciones" width="100%"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="grafo 3D de contribuciones" width="100%"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -208,6 +216,26 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
+
+<details>
+<summary><sub><code>▸ side B</code></sub></summary>
+
+<br/>
+
+```text
+ ┌──────────────────────────────────────────────┐
+ │  cinta encontrada en una carpeta sin nombre  │
+ │                                              │
+ │  05  commits a las 2am                       │
+ │  06  "arreglo esto mañana" (no lo arregló)   │
+ │  07  el CSS que sí funcionó a la primera     │
+ │  08  ruido blanco                            │
+ └──────────────────────────────────────────────┘
+```
+
+Si estás leyendo esto es porque abriste el desplegable. Bien hecho. `|-/`
+
+</details>
 
 <div align="center">
   <sub><code>~/Nakusuo</code> &nbsp;·&nbsp; construido con demasiado café y atajos de teclado ☕</sub>
