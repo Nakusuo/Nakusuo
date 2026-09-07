@@ -199,6 +199,11 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+2. 💪 Opened PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+3. 🎉 Merged PR [#23](https://github.com/Nakusuo/huecko-frontend/pull/23) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+4. 💪 Opened PR [#23](https://github.com/Nakusuo/huecko-frontend/pull/23) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+5. 🎉 Merged PR [#11](https://github.com/Nakusuo/huecko-backend/pull/11) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
