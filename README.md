@@ -173,12 +173,13 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nakusuo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=8B95A5&ring_color=F472B6" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakusuo&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=8B95A5" alt="lenguajes"/>
+<img width="98%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="resumen"/>
 
-<br/>
+<img height="190" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats"/>
+<img height="190" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="lenguajes por commits"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nakusuo&bg_color=0D1117&color=22D3EE&line=A855F7&point=F472B6&area=true&hide_border=true" alt="actividad"/>
+<img height="190" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos por lenguaje"/>
+<img height="190" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="horas productivas"/>
 
 </div>
 
