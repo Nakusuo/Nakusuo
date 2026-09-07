@@ -173,13 +173,13 @@ Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-
 
 <div align="center">
 
-<img width="98%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="resumen"/>
+<img width="98%" src="./profile-summary-card-output/radical/0-profile-details.svg" alt="resumen"/>
 
-<img height="190" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats"/>
-<img height="190" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="lenguajes por commits"/>
+<img height="190" src="./profile-summary-card-output/radical/3-stats.svg" alt="stats"/>
+<img height="190" src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="lenguajes por commits"/>
 
-<img height="190" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos por lenguaje"/>
-<img height="190" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="horas productivas"/>
+<img height="190" src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos por lenguaje"/>
+<img height="190" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="horas productivas"/>
 
 </div>
 
