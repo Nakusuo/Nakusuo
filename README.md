@@ -200,7 +200,7 @@ son el registro de cómo voy aprendiendo.
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="grafo 3D de contribuciones" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="grafo 3D de contribuciones" width="100%"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
