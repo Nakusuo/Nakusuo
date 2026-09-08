@@ -208,11 +208,11 @@ son el registro de cómo voy aprendiendo.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-2. 💪 Opened PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-3. 🎉 Merged PR [#23](https://github.com/Nakusuo/huecko-frontend/pull/23) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-4. 💪 Opened PR [#23](https://github.com/Nakusuo/huecko-frontend/pull/23) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-5. 🎉 Merged PR [#11](https://github.com/Nakusuo/huecko-backend/pull/11) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+1. 🎉 Merged PR [#24](https://github.com/Nakusuo/huecko-frontend/pull/24) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+2. 💪 Opened PR [#24](https://github.com/Nakusuo/huecko-frontend/pull/24) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+3. 🎉 Merged PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+4. 💪 Opened PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+5. 🎉 Merged PR [#23](https://github.com/Nakusuo/huecko-frontend/pull/23) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
