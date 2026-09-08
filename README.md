@@ -121,9 +121,19 @@ desde el primer commit. El frontend va en Angular 16 con videollamadas WebRTC.
 
 <br/>
 
-Repos de curso donde voy dejando ejercicios y entregas: `Lenguajes_Programacion-Frontend`,
-`semana14-DWI`, `5minutos`, `Estrucutra-de-datos---Cafeteria`. No son portafolio,
-son el registro de cómo voy aprendiendo.
+Repos de curso donde voy dejando ejercicios y entregas: `ProyectoMesaDePartes`, `CHALK`,
+`Lenguajes_Programacion-Frontend`, `semana14-DWI`, `Semana-11-appMovil` y
+`Estrucutra-de-datos---Cafeteria`. No son portafolio, son el registro de cómo voy aprendiendo.
+
+</details>
+
+<details>
+<summary><b>🌙 &nbsp;Cosas que hice para alguien</b></summary>
+
+<br/>
+
+Páginas pequeñas hechas a mano, sin framework y sin motivo práctico: `4Skate`, `5minutos`, `5555`.
+Están ahí por si alguien las encuentra.
 
 </details>
 
