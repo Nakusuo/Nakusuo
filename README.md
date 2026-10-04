@@ -221,8 +221,8 @@ Están ahí por si alguien las encuentra.
 1. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.4.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
 2. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.4.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
 3. 🎉 Merged PR [#24](https://github.com/Nakusuo/huecko-frontend/pull/24) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-4. 💪 Opened PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-5. 🎉 Merged PR [#23](https://github.com/Nakusuo/huecko-frontend/pull/23) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+4. 💪 Opened PR [#24](https://github.com/Nakusuo/huecko-frontend/pull/24) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+5. 🎉 Merged PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
