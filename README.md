@@ -218,11 +218,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.4.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-2. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.4.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-3. 🎉 Merged PR [#24](https://github.com/Nakusuo/huecko-frontend/pull/24) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-4. 💪 Opened PR [#24](https://github.com/Nakusuo/huecko-frontend/pull/24) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-5. 🎉 Merged PR [#12](https://github.com/Nakusuo/huecko-backend/pull/12) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+1. 🚀 Published release [v0.5.0 · IA y despliegue](https://github.com/Nakusuo/huecko-ai-service/releases/tag/v0.5.0) in [Nakusuo/huecko-ai-service](https://github.com/Nakusuo/huecko-ai-service)
+2. 🚀 Published release [v0.5.0 · IA y despliegue](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.5.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+3. 🚀 Published release [v0.5.0 · IA y despliegue](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.5.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+4. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.4.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+5. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.4.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
