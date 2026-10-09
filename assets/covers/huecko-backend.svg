@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="huecko-backend">
+  <title>huecko-backend — Nakusu</title>
+  <defs>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1" height="1" fill="#6b7f52" opacity="0.16"/>
+      <rect x="4" y="3" width="1" height="1" fill="#8a8f8a" opacity="0.10"/>
+      <rect x="2" y="5" width="1" height="1" fill="#7b4b3b" opacity="0.10"/>
+    </pattern>
+    <pattern id="lines" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 6 L6 0" stroke="#8a7f68" stroke-width="0.6" opacity="0.18"/>
+    </pattern>
+    <linearGradient id="body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a4038"/><stop offset="55%" stop-color="#3a322c"/><stop offset="100%" stop-color="#2b2521"/>
+    </linearGradient>
+    <linearGradient id="label" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e3dbc8"/><stop offset="100%" stop-color="#cfc5ae"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1d201e" stop-opacity="0"/><stop offset="100%" stop-color="#0b0d0c" stop-opacity="0.85"/>
+    </radialGradient>
+    <clipPath id="win"><rect x="0" y="0" width="200" height="40" rx="5"/></clipPath>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="#15171a"/>
+  <rect width="1200" height="300" rx="14" fill="url(#grain)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#vig)"/>
+  
+  <g transform="translate(330 150) scale(1.0) rotate(-1.3)">
+    <rect x="-274.0" y="-93.0" width="560" height="200" rx="12" fill="#0b0c0b" opacity="0.6"/>
+    <rect x="-280.0" y="-100.0" width="560" height="200" rx="12" fill="url(#body)" stroke="#5b5249" stroke-width="1.5"/>
+    <rect x="-268.0" y="-88.0" width="536" height="176" rx="8" fill="none" stroke="#241f1b" stroke-width="1.5"/>
+    <rect x="-256.0" y="-80.0" width="512" height="96" rx="4" fill="url(#label)"/>
+    <rect x="-256.0" y="-80.0" width="512" height="96" rx="4" fill="url(#lines)"/>
+    <rect x="-256.0" y="-80.0" width="512" height="22" rx="4" fill="#42553a"/>
+    <rect x="-256.0" y="-64.0" width="512" height="6" fill="#42553a"/>
+    <text x="-244.0" y="-64.0" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#e6e0d0">SIDE A · TRACK 01b</text>
+    <text x="244.0" y="-64.0" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2" fill="#e6e0d0" opacity="0.75">C-90 · NAKUSU</text>
+    <text x="-240.0" y="-18.0" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" letter-spacing="3" fill="#2b2f2a">HUECKO</text>
+    <rect x="-238.0" y="-10.0" width="0" height="3" fill="#7b2d3b">
+      <animate attributeName="width" values="0;149;149;0" keyTimes="0;0.3;0.85;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="-238.0" y="7.0" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#6d6558">la api · spring boot</text>
+    <rect x="82.0" y="-54.0" width="1" height="45" fill="#a89c86" opacity="0.6"/>
+    <g font-family="'Courier New', Courier, monospace" font-size="11" fill="#7a7263"><text x="92.0" y="-44.0">01a frontend</text><text x="92.0" y="-29.0">01b backend</text><text x="92.0" y="-14.0">01c ai-service</text></g>
+    <g transform="translate(-100.0 30.0)">
+      <rect x="-6" y="-6" width="212" height="52" rx="8" fill="#14120f" stroke="#5b5249"/>
+      <g clip-path="url(#win)">
+        <rect width="200" height="40" fill="#241d18"/><rect y="13" width="200" height="14" fill="#4a382c"/>
+        <rect width="22" height="40" fill="#0d0c0b" opacity="0.55"><animate attributeName="x" values="0;180;0" dur="9s" repeatCount="indefinite"/></rect>
+      </g>
+    </g>
+    <g transform="translate(-140.0 50.0)"><circle r="36" fill="#1d1916" stroke="#5b5249" stroke-width="1.5"/><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/><circle r="24" fill="#3a322c" stroke="#6b6156"/><circle r="9" fill="#15171a"/><g stroke="#6b6156" stroke-width="3.6" stroke-linecap="round"><path d="M0 -24 L0 -11" transform="rotate(0)"/><path d="M0 -24 L0 -11" transform="rotate(60)"/><path d="M0 -24 L0 -11" transform="rotate(120)"/><path d="M0 -24 L0 -11" transform="rotate(180)"/><path d="M0 -24 L0 -11" transform="rotate(240)"/><path d="M0 -24 L0 -11" transform="rotate(300)"/></g></g></g><g transform="translate(140.0 50.0)"><circle r="36" fill="#1d1916" stroke="#5b5249" stroke-width="1.5"/><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/><circle r="24" fill="#3a322c" stroke="#6b6156"/><circle r="9" fill="#15171a"/><g stroke="#6b6156" stroke-width="3.6" stroke-linecap="round"><path d="M0 -24 L0 -11" transform="rotate(0)"/><path d="M0 -24 L0 -11" transform="rotate(60)"/><path d="M0 -24 L0 -11" transform="rotate(120)"/><path d="M0 -24 L0 -11" transform="rotate(180)"/><path d="M0 -24 L0 -11" transform="rotate(240)"/><path d="M0 -24 L0 -11" transform="rotate(300)"/></g></g></g>
+    <g fill="#574f46"><circle cx="-262.0" cy="-82.0" r="3"/><circle cx="262.0" cy="-82.0" r="3"/><circle cx="-262.0" cy="82.0" r="3"/><circle cx="262.0" cy="82.0" r="3"/></g>
+  </g>
+  <g transform="translate(680 70)">
+    <text font-family="'Courier New', Courier, monospace" font-size="13" letter-spacing="4" fill="#6f776a">github.com/Nakusuo/</text>
+    <text y="42" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#e3dbc8">huecko-backend</text>
+    <text y="80" font-family="'Courier New', Courier, monospace" font-size="14" fill="#a89c86">API REST: heatmaps, umbrales, votaciones</text>
+    <text y="100" font-family="'Courier New', Courier, monospace" font-size="14" fill="#a89c86">y persistencia híbrida Postgres + Mongo.</text>
+    <g transform="translate(0 124)"><rect x="0" y="0" width="69" height="24" rx="12" fill="#1c1f1c" stroke="#4a5347"/><text x="34" y="16" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#c9c2b0">Java 17</text><rect x="76.6" y="0" width="100" height="24" rx="12" fill="#1c1f1c" stroke="#4a5347"/><text x="126" y="16" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#c9c2b0">Spring Boot</text><rect x="184.39999999999998" y="0" width="92" height="24" rx="12" fill="#1c1f1c" stroke="#4a5347"/><text x="230" y="16" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#c9c2b0">PostgreSQL</text><rect x="284.4" y="0" width="69" height="24" rx="12" fill="#1c1f1c" stroke="#4a5347"/><text x="319" y="16" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#c9c2b0">MongoDB</text><rect x="361.0" y="0" width="61" height="24" rx="12" fill="#1c1f1c" stroke="#4a5347"/><text x="391" y="16" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#c9c2b0">Docker</text></g>
+  </g>
+  <g transform="translate(1060 24)">
+    <circle cx="8" cy="8" r="6" fill="#c9505f"><animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="22" y="13" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="2" fill="#a89c86">PLAY ▶</text>
+  </g>
+</svg>
