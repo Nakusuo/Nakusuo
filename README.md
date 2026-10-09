@@ -27,6 +27,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1400&color=8FA36B&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Frontend+en+React+%2B+TypeScript;Backend+en+Spring+Boot+y+FastAPI;Dise%C3%B1o%2C+arte+y+c%C3%B3digo+creativo" alt="typing"/>
 
 
+<br/><br/>
+
 <sub><code>TRACKLIST</code></sub>
 <br/>
 <a href="#-whoami"><img src="https://img.shields.io/badge/01-whoami-1C1F1C?style=flat-square&labelColor=42553a" alt="01 whoami"/></a>
@@ -37,6 +39,8 @@
 <a href="#side-b"><img src="https://img.shields.io/badge/%E2%96%B8-side_B-1C1F1C?style=flat-square&labelColor=4a382c" alt="side B"/></a>
 
 </div>
+
+<a href="https://github.com/Nakusuo?tab=repositories"><img src="./assets/now-playing.svg" width="100%" alt="Reproduciendo: mi último movimiento en GitHub"/></a>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -416,6 +420,8 @@ Están ahí por si alguien las encuentra.
 <summary><sub><code>▸ side B</code></sub></summary>
 
 <br/>
+
+<img src="./assets/side-b.svg" width="100%" alt="side B — pistas ocultas"/>
 
 ```text
  ┌──────────────────────────────────────────────┐
