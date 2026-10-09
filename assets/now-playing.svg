@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 176" width="1200" height="176" role="img" aria-label="Reproduciendo: PR #1 ">
-  <title>Reproduciendo: PR #1 </title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 176" width="1200" height="176" role="img" aria-label="Reproduciendo: PR #1 Optimizar rendimiento">
+  <title>Reproduciendo: PR #1 Optimizar rendimiento</title>
   <defs>
     <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
       <rect x="0" y="0" width="1" height="1" fill="#6b7f52" opacity="0.16"/>
@@ -23,7 +23,7 @@
     <text x="840" y="49" text-anchor="end" font-size="12" fill="#6f776a">09 oct · 12:09 (Lima)</text>
   </g>
   <g clip-path="url(#marquee)">
-    <text x="250" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#e3dbc8">PR #1 </text>
+    <text x="250" y="90" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#e3dbc8">PR #1 Optimizar rendimiento</text>
   </g>
   <text x="250" y="122" font-family="'Courier New', Courier, monospace" font-size="14" fill="#a89c86">dotfiles  ·  pr · opened</text>
   <rect x="250" y="138" width="590" height="3" rx="1.5" fill="#2c322c"/>
