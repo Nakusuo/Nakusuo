@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Clínica Biométrica — login facial">
+  <title>Clínica Biométrica — login facial</title>
+  <defs>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1" height="1" fill="#6b7f52" opacity="0.16"/>
+      <rect x="4" y="3" width="1" height="1" fill="#8a8f8a" opacity="0.10"/>
+      <rect x="2" y="5" width="1" height="1" fill="#7b4b3b" opacity="0.10"/>
+    </pattern>
+    <pattern id="lines" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 6 L6 0" stroke="#8a7f68" stroke-width="0.6" opacity="0.18"/>
+    </pattern>
+    <linearGradient id="label" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e3dbc8"/>
+      <stop offset="100%" stop-color="#cfc5ae"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1d201e" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0b0d0c" stop-opacity="0.8"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" rx="14" fill="#15171a"/>
+  <rect width="1200" height="280" rx="14" fill="url(#grain)"/>
+  <rect width="1200" height="280" rx="14" fill="url(#vig)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="13" fill="none" stroke="#2c322c"/>
+
+  <g transform="rotate(-1.2 271.0 140.0)">
+    <rect x="41" y="40" width="470" height="212" rx="4" fill="#0b0c0b" opacity="0.6"/>
+    <rect x="36" y="34" width="470" height="212" rx="4" fill="url(#label)"/>
+    <rect x="36" y="34" width="470" height="212" rx="4" fill="url(#lines)"/>
+    <rect x="36" y="34" width="470" height="28" rx="4" fill="#4a382c"/>
+    <rect x="36" y="56" width="470" height="6" fill="#4a382c"/>
+    <text x="52" y="53" font-family="'Courier New', Courier, monospace" font-size="12.5" font-weight="700" letter-spacing="3" fill="#e6e0d0">SIDE A · TRACK 03</text>
+    <text x="490" y="53" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="2" fill="#e6e0d0" opacity="0.75">C-90</text>
+    <text x="58" y="116" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="5" fill="#2b2f2a">CLÍNICA</text>
+    <rect x="60" y="126" width="0" height="3" fill="#7b2d3b">
+      <animate attributeName="width" values="0;252;252;0" keyTimes="0;0.3;0.85;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="58" y="156" font-family="'Courier New', Courier, monospace" font-size="14" fill="#5d564b">telemedicina con login facial,</text>
+    <text x="58" y="175" font-family="'Courier New', Courier, monospace" font-size="14" fill="#5d564b">documentada en Swagger</text>
+    <rect x="58" y="198" width="64" height="22" rx="3" fill="none" stroke="#7a7263" stroke-width="1"/><text x="90" y="213" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#5d564b">fastapi</text><rect x="130.2" y="198" width="87" height="22" rx="3" fill="none" stroke="#7a7263" stroke-width="1"/><text x="174" y="213" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#5d564b">postgresql</text><rect x="225.2" y="198" width="64" height="22" rx="3" fill="none" stroke="#7a7263" stroke-width="1"/><text x="257" y="213" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#5d564b">angular</text><rect x="297.4" y="198" width="34" height="22" rx="3" fill="none" stroke="#7a7263" stroke-width="1"/><text x="314" y="213" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#5d564b">jwt</text>
+    <circle cx="482" cy="224" r="9" fill="none" stroke="#9a9280" stroke-width="1.2"/>
+    <text x="482" y="228" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="10" fill="#7a7263">03</text>
+  </g>
+  <g>
+    <ellipse cx="725.0" cy="138" rx="50" ry="64" fill="none" stroke="#6f776a" stroke-width="1.5" stroke-dasharray="2 4"/>
+    <path d="M665.0 236 Q725.0 186 785.0 236" fill="none" stroke="#6f776a" stroke-width="1.5" stroke-dasharray="2 4"/><path d="M703.0 120 L725.0 144 L747.0 120 M707.0 168 L725.0 144 L743.0 168 L725.0 172 L707.0 168" stroke="#8fa36b" stroke-width="0.8" fill="none" opacity="0"><animate attributeName="opacity" values="0;0;0.6;0.6;0" keyTimes="0;0.45;0.5;0.9;1" dur="6s" repeatCount="indefinite"/></path><circle cx="703.0" cy="120" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.10;0.14;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="747.0" cy="120" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.13;0.17;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="725.0" cy="144" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.16;0.20;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="707.0" cy="168" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.19;0.23;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="725.0" cy="172" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.22;0.26;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="743.0" cy="168" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.25;0.29;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="691.0" cy="112" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.28;0.32;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="759.0" cy="112" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.31;0.35;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="685.0" cy="146" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.34;0.38;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="765.0" cy="146" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.37;0.41;0.9;1" dur="6s" repeatCount="indefinite"/></circle><circle cx="725.0" cy="186" r="2.6" fill="#8fa36b" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.40;0.44;0.9;1" dur="6s" repeatCount="indefinite"/></circle>
+    <path d="M640 76 V46 H670" stroke="#8fa36b" stroke-width="3" fill="none"/>
+    <path d="M780 46 H810 V76" stroke="#8fa36b" stroke-width="3" fill="none"/>
+    <path d="M640 206 V236 H670" stroke="#8fa36b" stroke-width="3" fill="none"/>
+    <path d="M780 236 H810 V206" stroke="#8fa36b" stroke-width="3" fill="none"/>
+    <rect x="646" y="46" width="158" height="2" fill="#8fa36b" opacity="0.85">
+      <animate attributeName="y" values="46;236;46" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <g font-family="'Courier New', Courier, monospace" font-size="13">
+      <text x="850" y="76" fill="#6f776a">POST /api/auth/facial-login</text>
+      <text x="850" y="102" fill="#c9c2b0">escaneando rostro<tspan>...<animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></tspan>
+        <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.55;0.97;1" dur="6s" repeatCount="indefinite"/></text>
+      <text x="850" y="102" fill="#8fa36b" opacity="0">✔ 200 · JWT emitido
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.55;0.97;1" dur="6s" repeatCount="indefinite"/></text>
+      <text x="850" y="142" fill="#8f9a83">pacientes · doctores</text>
+      <text x="850" y="162" fill="#8f9a83">citas · expedientes</text>
+      <text x="850" y="182" fill="#8f9a83">videollamada WebRTC</text>
+    </g>
+    <path d="M850 218 h40 l8 -4 l6 4 h14 l6 -28 l8 50 l6 -22 h18 l8 -6 l8 6 h40 l8 -4 l6 4 h14 l6 -28 l8 50 l6 -22 h30" fill="none" stroke="#c9505f" stroke-width="2" stroke-linejoin="round" stroke-dasharray="420" stroke-dashoffset="420">
+      <animate attributeName="stroke-dashoffset" values="420;0;-420" dur="3.2s" repeatCount="indefinite"/>
+    </path></g>
+</svg>

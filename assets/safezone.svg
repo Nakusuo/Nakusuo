@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="SafeZone — botón de pánico con cuenta regresiva">
+  <title>SafeZone — botón de pánico con cuenta regresiva</title>
+  <defs>
+    <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1" height="1" fill="#6b7f52" opacity="0.16"/>
+      <rect x="4" y="3" width="1" height="1" fill="#8a8f8a" opacity="0.10"/>
+      <rect x="2" y="5" width="1" height="1" fill="#7b4b3b" opacity="0.10"/>
+    </pattern>
+    <pattern id="lines" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 6 L6 0" stroke="#8a7f68" stroke-width="0.6" opacity="0.18"/>
+    </pattern>
+    <linearGradient id="label" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e3dbc8"/>
+      <stop offset="100%" stop-color="#cfc5ae"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1d201e" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0b0d0c" stop-opacity="0.8"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" rx="14" fill="#15171a"/>
+  <rect width="1200" height="280" rx="14" fill="url(#grain)"/>
+  <rect width="1200" height="280" rx="14" fill="url(#vig)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="13" fill="none" stroke="#2c322c"/>
+
+  <g transform="rotate(-1.2 271.0 140.0)">
+    <rect x="41" y="40" width="470" height="212" rx="4" fill="#0b0c0b" opacity="0.6"/>
+    <rect x="36" y="34" width="470" height="212" rx="4" fill="url(#label)"/>
+    <rect x="36" y="34" width="470" height="212" rx="4" fill="url(#lines)"/>
+    <rect x="36" y="34" width="470" height="28" rx="4" fill="#5a2430"/>
+    <rect x="36" y="56" width="470" height="6" fill="#5a2430"/>
+    <text x="52" y="53" font-family="'Courier New', Courier, monospace" font-size="12.5" font-weight="700" letter-spacing="3" fill="#e6e0d0">SIDE A · TRACK 02</text>
+    <text x="490" y="53" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="2" fill="#e6e0d0" opacity="0.75">C-90</text>
+    <text x="58" y="116" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="5" fill="#2b2f2a">SAFEZONE</text>
+    <rect x="60" y="126" width="0" height="3" fill="#7b2d3b">
+      <animate attributeName="width" values="0;288;288;0" keyTimes="0;0.3;0.85;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="58" y="156" font-family="'Courier New', Courier, monospace" font-size="14" fill="#5d564b">apoyo a víctimas de violencia:</text>
+    <text x="58" y="175" font-family="'Courier New', Courier, monospace" font-size="14" fill="#5d564b">4 roles, 4 dashboards, 1 botón</text>
+    <rect x="58" y="198" width="72" height="22" rx="3" fill="none" stroke="#7a7263" stroke-width="1"/><text x="94" y="213" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#5d564b">react 18</text><rect x="137.8" y="198" width="72" height="22" rx="3" fill="none" stroke="#7a7263" stroke-width="1"/><text x="174" y="213" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#5d564b">tailwind</text><rect x="217.60000000000002" y="198" width="95" height="22" rx="3" fill="none" stroke="#7a7263" stroke-width="1"/><text x="265" y="213" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#5d564b">spring boot</text>
+    <circle cx="482" cy="224" r="9" fill="none" stroke="#9a9280" stroke-width="1.2"/>
+    <text x="482" y="228" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="10" fill="#7a7263">02</text>
+  </g>
+  <g>
+    <g><rect x="948" y="50" width="124" height="28" rx="14" fill="#1c1f1c" stroke="#4a5347"/><circle cx="964" cy="64" r="4" fill="#8fa36b"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="0.0s" repeatCount="indefinite"/></circle><text x="976" y="69" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#c9c2b0">admin</text></g><path d="M888 140 L948 64" stroke="#4a5347" stroke-width="1" stroke-dasharray="3 4" fill="none"><animate attributeName="stroke-dashoffset" values="14;0" dur="1s" repeatCount="indefinite"/></path><g><rect x="968" y="102" width="124" height="28" rx="14" fill="#1c1f1c" stroke="#4a5347"/><circle cx="984" cy="116" r="4" fill="#8fa36b"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle><text x="996" y="121" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#c9c2b0">víctima</text></g><path d="M888 140 L968 116" stroke="#4a5347" stroke-width="1" stroke-dasharray="3 4" fill="none"><animate attributeName="stroke-dashoffset" values="14;0" dur="1s" repeatCount="indefinite"/></path><g><rect x="948" y="154" width="124" height="28" rx="14" fill="#1c1f1c" stroke="#4a5347"/><circle cx="964" cy="168" r="4" fill="#8fa36b"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="1.0s" repeatCount="indefinite"/></circle><text x="976" y="173" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#c9c2b0">psicóloga</text></g><path d="M888 140 L948 168" stroke="#4a5347" stroke-width="1" stroke-dasharray="3 4" fill="none"><animate attributeName="stroke-dashoffset" values="14;0" dur="1s" repeatCount="indefinite"/></path><g><rect x="968" y="206" width="124" height="28" rx="14" fill="#1c1f1c" stroke="#4a5347"/><circle cx="984" cy="220" r="4" fill="#8fa36b"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle><text x="996" y="225" font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#c9c2b0">defensor</text></g><path d="M888 140 L968 220" stroke="#4a5347" stroke-width="1" stroke-dasharray="3 4" fill="none"><animate attributeName="stroke-dashoffset" values="14;0" dur="1s" repeatCount="indefinite"/></path>
+    <!-- pulso GPS -->
+    <circle cx="800" cy="140" r="74" fill="#5a2430" opacity="0.35">
+      <animate attributeName="r" values="74;118" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="140" r="74" fill="#2a1418" stroke="#3a161e" stroke-width="2"/>
+    <circle cx="800" cy="140" r="74" fill="none" stroke="#c9505f" stroke-width="6" stroke-linecap="round"
+            stroke-dasharray="465.0" transform="rotate(-90 800 140)">
+      <animate attributeName="stroke-dashoffset" values="0;465.0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="140" r="58" fill="#7b2d3b"/>
+    <text x="800" y="148" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" letter-spacing="4" fill="#f1e6e2">SOS</text>
+    <text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">10s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.00;0.00;0.10;0.10;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">09s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.10;0.10;0.20;0.20;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">08s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.20;0.20;0.30;0.30;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">07s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.30;0.30;0.40;0.40;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">06s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.40;0.40;0.50;0.50;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">05s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.50;0.50;0.60;0.60;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">04s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.60;0.60;0.70;0.70;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">03s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.70;0.70;0.80;0.80;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">02s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.80;0.80;0.90;0.90;1.00" dur="10s" repeatCount="indefinite"/></text><text x="800" y="180" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="20" font-weight="700" fill="#e8d9d5" opacity="0">01s<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.00;0.90;0.90;1.00;1.00;1.00" dur="10s" repeatCount="indefinite"/></text>
+    <g font-family="'Courier New', Courier, monospace" font-size="12.5" fill="#8f9a83">
+      <text x="800" y="248" text-anchor="middle">📍 GPS · o dirección manual · auto-envío</text>
+    </g>
+  </g>
+</svg>
