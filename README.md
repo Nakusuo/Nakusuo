@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0 · IA y despliegue](https://github.com/Nakusuo/huecko-ai-service/releases/tag/v0.5.0) in [Nakusuo/huecko-ai-service](https://github.com/Nakusuo/huecko-ai-service)
-2. 🚀 Published release [v0.5.0 · IA y despliegue](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.5.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-3. 🚀 Published release [v0.5.0 · IA y despliegue](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.5.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-4. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.4.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-5. 🚀 Published release [v0.4.0 · Panel de administración](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.4.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+1. 🎉 Merged PR [#2](https://github.com/Nakusuo/dotfiles/pull/2) in [Nakusuo/dotfiles](https://github.com/Nakusuo/dotfiles)
+2. 💪 Opened PR [#2](https://github.com/Nakusuo/dotfiles/pull/2) in [Nakusuo/dotfiles](https://github.com/Nakusuo/dotfiles)
+3. 🎉 Merged PR [#1](https://github.com/Nakusuo/dotfiles/pull/1) in [Nakusuo/dotfiles](https://github.com/Nakusuo/dotfiles)
+4. 💪 Opened PR [#1](https://github.com/Nakusuo/dotfiles/pull/1) in [Nakusuo/dotfiles](https://github.com/Nakusuo/dotfiles)
+5. 🚀 Published release [v0.5.0 · IA y despliegue](https://github.com/Nakusuo/huecko-ai-service/releases/tag/v0.5.0) in [Nakusuo/huecko-ai-service](https://github.com/Nakusuo/huecko-ai-service)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
