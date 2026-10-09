@@ -48,8 +48,15 @@ def describe(ev):
     if t == "CreateEvent":
         return f"nuevo {p.get('ref_type', 'repo')} {p.get('ref') or short}", short, "create"
     if t == "PullRequestEvent":
-        pr = p.get("pull_request", {})
-        return f"PR #{pr.get('number', '')} {pr.get('title', '')}", short, f"pr · {p.get('action', '')}"
+        pr = p.get("pull_request") or {}
+        num = pr.get("number") or p.get("number")
+        title = pr.get("title")
+        if not title and num:
+            try:
+                title = api(f"/repos/{repo}/pulls/{num}")["title"]
+            except Exception:
+                title = ""
+        return f"PR #{num} {title or ''}".strip(), short, f"pr · {p.get('action', '')}"
     if t == "IssuesEvent":
         return f"issue: {p.get('issue', {}).get('title', '')}", short, "issue"
     if t == "WatchEvent":
