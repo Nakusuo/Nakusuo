@@ -1,0 +1,43 @@
+name: reproduciendo
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/now_playing.py
+      - .github/workflows/now-playing.yml
+
+concurrency:
+  group: now-playing
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar el casete
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/now_playing.py
+
+      - name: Guardar si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/now-playing.svg
+          if git diff --cached --quiet; then echo "sin cambios"; exit 0; fi
+          git commit -m "chore: actualizar reproduciendo"
+          git pull --rebase origin main
+          git push
