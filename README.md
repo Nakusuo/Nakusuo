@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/pull/3) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
-2. 💪 Opened PR [#8](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/8) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
-3. 💪 Opened PR [#2](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/pull/2) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
-4. 💪 Opened PR [#7](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/7) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
-5. 🎉 Merged PR [#2](https://github.com/Nakusuo/dotfiles/pull/2) in [Nakusuo/dotfiles](https://github.com/Nakusuo/dotfiles)
+1. 🚀 Published release [v0.6.1 · CSP y transacción de la IA](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.6.1) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+2. 🚀 Published release [v0.6.1 · CSP y transacción de la IA](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.6.1) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+3. 🚀 Published release [v0.6.0 · Seguridad y demo](https://github.com/Nakusuo/huecko-ai-service/releases/tag/v0.6.0) in [Nakusuo/huecko-ai-service](https://github.com/Nakusuo/huecko-ai-service)
+4. 🚀 Published release [v0.6.0 · Seguridad y demo](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.6.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+5. 🚀 Published release [v0.6.0 · Seguridad y demo](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.6.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
