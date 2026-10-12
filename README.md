@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.6.1 · CSP y transacción de la IA](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.6.1) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-2. 🚀 Published release [v0.6.1 · CSP y transacción de la IA](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.6.1) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-3. 🚀 Published release [v0.6.0 · Seguridad y demo](https://github.com/Nakusuo/huecko-ai-service/releases/tag/v0.6.0) in [Nakusuo/huecko-ai-service](https://github.com/Nakusuo/huecko-ai-service)
-4. 🚀 Published release [v0.6.0 · Seguridad y demo](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.6.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-5. 🚀 Published release [v0.6.0 · Seguridad y demo](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.6.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+1. 🎉 Merged PR [#27](https://github.com/Nakusuo/autocheckout-vision/pull/27) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+2. 💪 Opened PR [#32](https://github.com/Nakusuo/autocheckout-vision/pull/32) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+3. 🎉 Merged PR [#31](https://github.com/Nakusuo/autocheckout-vision/pull/31) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+4. 💪 Opened PR [#31](https://github.com/Nakusuo/autocheckout-vision/pull/31) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+5. 🎉 Merged PR [#30](https://github.com/Nakusuo/autocheckout-vision/pull/30) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
