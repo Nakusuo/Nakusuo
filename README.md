@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/Nakusuo/autocheckout-vision/pull/46) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-2. 💪 Opened PR [#45](https://github.com/Nakusuo/autocheckout-vision/pull/45) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-3. 🎉 Merged PR [#44](https://github.com/Nakusuo/autocheckout-vision/pull/44) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-4. 💪 Opened PR [#44](https://github.com/Nakusuo/autocheckout-vision/pull/44) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-5. 🎉 Merged PR [#43](https://github.com/Nakusuo/autocheckout-vision/pull/43) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+1. 🎉 Merged PR [#47](https://github.com/Nakusuo/autocheckout-vision/pull/47) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+2. 💪 Opened PR [#47](https://github.com/Nakusuo/autocheckout-vision/pull/47) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+3. 🎉 Merged PR [#45](https://github.com/Nakusuo/autocheckout-vision/pull/45) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+4. 🎉 Merged PR [#46](https://github.com/Nakusuo/autocheckout-vision/pull/46) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+5. 💪 Opened PR [#46](https://github.com/Nakusuo/autocheckout-vision/pull/46) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
