@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Nakusuo/autocheckout-vision/pull/53) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-2. 💪 Opened PR [#53](https://github.com/Nakusuo/autocheckout-vision/pull/53) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-3. 🗣 Commented on [#50](https://github.com/Nakusuo/autocheckout-vision/pull/50#issuecomment-6158066468) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-4. 🎉 Merged PR [#47](https://github.com/Nakusuo/autocheckout-vision/pull/47) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
-5. 💪 Opened PR [#47](https://github.com/Nakusuo/autocheckout-vision/pull/47) in [Nakusuo/autocheckout-vision](https://github.com/Nakusuo/autocheckout-vision)
+1. 🔒 Closed issue [#16](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/issues/16) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
+2. 🎉 Merged PR [#26](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/26) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+3. 🗣 Commented on [#15](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/15#issuecomment-6176834120) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+4. ℹ️ Labeled PR [#26](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/26) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+5. 💪 Opened PR [#26](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/26) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
