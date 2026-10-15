@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/issues/16) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
-2. 🎉 Merged PR [#26](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/26) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
-3. 🗣 Commented on [#15](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/15#issuecomment-6176834120) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
-4. ℹ️ Labeled PR [#26](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/26) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
-5. 💪 Opened PR [#26](https://github.com/Nakusuo/Backend-ClinicaBiometrica/pull/26) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+1. 🗣 Commented on [#18](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/issues/18#issuecomment-6177600797) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
+2. 🗣 Commented on [#31](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/31#issuecomment-6177599687) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+3. 🗣 Commented on [#27](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/27#issuecomment-6177140700) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+4. 🗣 Commented on [#11](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/issues/11#issuecomment-6176168140) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
+5. 🗣 Commented on [#19](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/19#issuecomment-6175201073) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
