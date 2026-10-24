@@ -405,9 +405,9 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/issues/18#issuecomment-6177600797) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
-2. 🗣 Commented on [#31](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/31#issuecomment-6177599687) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
-3. 🗣 Commented on [#27](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/27#issuecomment-6177140700) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+1. 🚀 Published release [v0.7.0 · Escaneo y asistente de planes](https://github.com/Nakusuo/huecko-ai-service/releases/tag/v0.7.0) in [Nakusuo/huecko-ai-service](https://github.com/Nakusuo/huecko-ai-service)
+2. 🚀 Published release [v0.7.0 · Huecko IA y código de invitación](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.7.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+3. 🚀 Published release [v0.7.0 · Huecko IA y código de invitación](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.7.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
 4. 🗣 Commented on [#11](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/issues/11#issuecomment-6176168140) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
 5. 🗣 Commented on [#19](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/19#issuecomment-6175201073) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
 <!--END_SECTION:activity-->
