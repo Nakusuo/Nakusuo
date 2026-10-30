@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.7.0 · Escaneo y asistente de planes](https://github.com/Nakusuo/huecko-ai-service/releases/tag/v0.7.0) in [Nakusuo/huecko-ai-service](https://github.com/Nakusuo/huecko-ai-service)
-2. 🚀 Published release [v0.7.0 · Huecko IA y código de invitación](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.7.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
-3. 🚀 Published release [v0.7.0 · Huecko IA y código de invitación](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.7.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-4. 🗣 Commented on [#11](https://github.com/Nakusuo/Frontend-ClinicaBiometrica/issues/11#issuecomment-6176168140) in [Nakusuo/Frontend-ClinicaBiometrica](https://github.com/Nakusuo/Frontend-ClinicaBiometrica)
-5. 🗣 Commented on [#19](https://github.com/Nakusuo/Backend-ClinicaBiometrica/issues/19#issuecomment-6175201073) in [Nakusuo/Backend-ClinicaBiometrica](https://github.com/Nakusuo/Backend-ClinicaBiometrica)
+1. 🚀 Published release [v0.10.0 · Verificación en dos pasos y observabilidad](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.10.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+2. 🚀 Published release [v0.9.0 · Swagger UI](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.9.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+3. 🚀 Published release [v0.8.1 · Despliegue en Supabase y Render](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.8.1) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+4. 🚀 Published release [v0.8.0 · Perfil social, álbum y muro](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.8.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+5. 🚀 Published release [v0.9.0 · Verificación en dos pasos y métricas](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.9.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
