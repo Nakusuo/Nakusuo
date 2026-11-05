@@ -405,11 +405,11 @@ Están ahí por si alguien las encuentra.
 ## `>` últimos movimientos
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.10.0 · Verificación en dos pasos y observabilidad](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.10.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-2. 🚀 Published release [v0.9.0 · Swagger UI](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.9.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-3. 🚀 Published release [v0.8.1 · Despliegue en Supabase y Render](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.8.1) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-4. 🚀 Published release [v0.8.0 · Perfil social, álbum y muro](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.8.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
-5. 🚀 Published release [v0.9.0 · Verificación en dos pasos y métricas](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.9.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+1. 🚀 Published release [v0.10.0 · Verificación del correo y dos pasos por correo](https://github.com/Nakusuo/huecko-frontend/releases/tag/v0.10.0) in [Nakusuo/huecko-frontend](https://github.com/Nakusuo/huecko-frontend)
+2. 🚀 Published release [v0.11.0 · Verificación del correo y dos pasos por correo](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.11.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+3. 🚀 Published release [v0.10.0 · Verificación en dos pasos y observabilidad](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.10.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+4. 🚀 Published release [v0.9.0 · Swagger UI](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.9.0) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
+5. 🚀 Published release [v0.8.1 · Despliegue en Supabase y Render](https://github.com/Nakusuo/huecko-backend/releases/tag/v0.8.1) in [Nakusuo/huecko-backend](https://github.com/Nakusuo/huecko-backend)
 <!--END_SECTION:activity-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
